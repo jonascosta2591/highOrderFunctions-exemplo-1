@@ -1,0 +1,1 @@
+High order functions são funções que podem ser passadas como parametros de outras funções ou que retorna outra função
